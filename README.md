@@ -14,7 +14,7 @@
 6. [Open Table Formats](#6-open-table-formats)
 7. [Delta Lake](#7-delta-lake)
 8. [Apache Spark & PySpark](#8-apache-spark--pyspark)
-9. [dbt — Data Build Tool](#9-dbt--data-build-tool)
+9. [dbt - Data Build Tool](#9-dbt--data-build-tool)
 10. [Orchestration with Airflow](#10-orchestration-with-airflow)
 11. [Key Technologies at a Glance](#11-key-technologies-at-a-glance)
 
