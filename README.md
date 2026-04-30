@@ -1,6 +1,6 @@
 # Analytics Engineer Masterclass
 
-> A comprehensive visual guide covering the full analytics engineering stack — from role definition to production-grade data pipelines.
+> Watch the full tutorial on YouTube : https://youtu.be/iTCWgd38ZZ0?si=Xvc0Eg1Qwm_LIase
 
 ---
 
